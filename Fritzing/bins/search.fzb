@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="icezum">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="IceZUM Alhambra_f04b8e40940fe81847df8251cabdcdbf_10" modelIndex="9718" path="/home/lobo/Documentos/Fritzing/parts/user/IceZUM Alhambra_f04b8e40940fe81847df8251cabdcdbf_10.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="IceZUM Alhambra_f04b8e40940fe81847df8251cabdcdbf_12" modelIndex="9719" path="/home/lobo/Documentos/Fritzing/parts/user/IceZUM Alhambra_f04b8e40940fe81847df8251cabdcdbf_12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="IceZUM_Alhambra1_9847614b414dbabc5f0396ea2525dd46_4" modelIndex="9720" path="/home/lobo/Documentos/Fritzing/parts/user/IceZUM_Alhambra1_9847614b414dbabc5f0396ea2525dd46_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="IceZUM_Alhambra_ed8e41ef7f9c4d683a4d45a4c11d20b0_39" modelIndex="9721" path="/home/lobo/Documentos/Fritzing/parts/user/IceZUM_Alhambra_ed8e41ef7f9c4d683a4d45a4c11d20b0_39.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="IceZUM_Alhambra_V0.1_9847614b414dbabc5f0396ea2525dd46_7" modelIndex="9722" path="/home/lobo/Documentos/Fritzing/parts/user/IceZUM_Alhambra_V0.1_9847614b414dbabc5f0396ea2525dd46_7.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
