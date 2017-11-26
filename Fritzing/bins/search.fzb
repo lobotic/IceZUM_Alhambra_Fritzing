@@ -1,20 +1,821 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="icezum">
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="ize">
     <title>Search</title>
     <instances>
-        <instance moduleIdRef="IceZUM Alhambra_f04b8e40940fe81847df8251cabdcdbf_10" modelIndex="9718" path="/home/lobo/Documentos/Fritzing/parts/user/IceZUM Alhambra_f04b8e40940fe81847df8251cabdcdbf_10.fzp">
+        <instance moduleIdRef="DENSO 174917 ECU socket 48pin_c9a68151309697733439e70b6fbd83fd_1" modelIndex="5752" path="/usr/share/fritzing/parts/core/174917_DENSO-ECU-socket_48pin-040-070.fzp">
             <views/>
         </instance>
-        <instance moduleIdRef="IceZUM Alhambra_f04b8e40940fe81847df8251cabdcdbf_12" modelIndex="9719" path="/home/lobo/Documentos/Fritzing/parts/user/IceZUM Alhambra_f04b8e40940fe81847df8251cabdcdbf_12.fzp">
+        <instance moduleIdRef="23LCV1024_24357530b44412a899aa27521bf5766d_1" modelIndex="5754" path="/usr/share/fritzing/parts/core/23LCV1024_1.fzp">
             <views/>
         </instance>
-        <instance moduleIdRef="IceZUM_Alhambra1_9847614b414dbabc5f0396ea2525dd46_4" modelIndex="9720" path="/home/lobo/Documentos/Fritzing/parts/user/IceZUM_Alhambra1_9847614b414dbabc5f0396ea2525dd46_4.fzp">
+        <instance moduleIdRef="4060_e09d902e037fab8d3ef620cfedcb2d7d_1" modelIndex="5756" path="/usr/share/fritzing/parts/core/4060.fzp">
             <views/>
         </instance>
-        <instance moduleIdRef="IceZUM_Alhambra_ed8e41ef7f9c4d683a4d45a4c11d20b0_39" modelIndex="9721" path="/home/lobo/Documentos/Fritzing/parts/user/IceZUM_Alhambra_ed8e41ef7f9c4d683a4d45a4c11d20b0_39.fzp">
+        <instance moduleIdRef="f2341c24e2a6d9182a55c653b6bbefed" modelIndex="5758" path="/usr/share/fritzing/parts/core/7-segment_display.fzp">
             <views/>
         </instance>
-        <instance moduleIdRef="IceZUM_Alhambra_V0.1_9847614b414dbabc5f0396ea2525dd46_7" modelIndex="9722" path="/home/lobo/Documentos/Fritzing/parts/user/IceZUM_Alhambra_V0.1_9847614b414dbabc5f0396ea2525dd46_7.fzp">
+        <instance moduleIdRef="74HC139N_fa229dffcda5c58d9e589070e2239d6d_1" modelIndex="5760" path="/usr/share/fritzing/parts/core/74HC139N_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7segment100an" modelIndex="5762" path="/usr/share/fritzing/parts/core/7segment_100_an.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7segment100cat" modelIndex="5764" path="/usr/share/fritzing/parts/core/7segment_100_cat.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7segment13an" modelIndex="5766" path="/usr/share/fritzing/parts/core/7segment_13_an.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7segment13cat" modelIndex="5768" path="/usr/share/fritzing/parts/core/7segment_13_cat.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7segment20an" modelIndex="5770" path="/usr/share/fritzing/parts/core/7segment_20,32_an.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7segment20cat" modelIndex="5772" path="/usr/share/fritzing/parts/core/7segment_20,32_cat.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7segment56,9an" modelIndex="5774" path="/usr/share/fritzing/parts/core/7segment_56,9_an.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7segment56,9cat" modelIndex="5776" path="/usr/share/fritzing/parts/core/7segment_56,9_cat.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7segment10an" modelIndex="5778" path="/usr/share/fritzing/parts/core/7segment_9,9_an.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7segment10cat" modelIndex="5779" path="/usr/share/fritzing/parts/core/7segment_9,9_cat.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="A4950_f96ca75d4706a24394f9603716d558ed_37" modelIndex="5781" path="/usr/share/fritzing/parts/core/A4950_37.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ADXL345-BreakoutBoard-v13" modelIndex="5783" path="/usr/share/fritzing/parts/core/ADXL345-BreakoutBoard-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="alps-starter-pot9mm" modelIndex="5785" path="/usr/share/fritzing/parts/core/alps-starter-pot9mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="AMPHENOL-ACJS-MHDR" modelIndex="5786" path="/usr/share/fritzing/parts/core/AMPHENOL-ACJS-MHDR.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Voice Shield-v16" modelIndex="5788" path="/usr/share/fritzing/parts/core/Arduino Voice Shield-v16.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="blueIOT_RevB" modelIndex="5790" path="/usr/share/fritzing/parts/core/Arduino-BLE-LowPower-RevB-final_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Ethernet-v11" modelIndex="5792" path="/usr/share/fritzing/parts/core/Arduino-Ethernet-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Pro-Mini-v13-a4+5" modelIndex="5794" path="/usr/share/fritzing/parts/core/Arduino-Pro-Mini-v13-a4+5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Pro-Mini3.3V" modelIndex="5796" path="/usr/share/fritzing/parts/core/Arduino-Pro-Mini_3.3v-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Pro-Mini.5v" modelIndex="5798" path="/usr/share/fritzing/parts/core/Arduino-Pro-Mini_5v-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_Yun(rev1)_v1" modelIndex="5800" path="/usr/share/fritzing/parts/core/arduino_Yun(rev1)_v1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ArduPilotMega_v15" modelIndex="5801" path="/usr/share/fritzing/parts/core/ArduPilotMega_v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_Conductivity Circuit" modelIndex="5803" path="/usr/share/fritzing/parts/core/atlas-sientific_Conductivity Circuit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_D.O. Circuit" modelIndex="5805" path="/usr/share/fritzing/parts/core/atlas-sientific_D.O. Circuit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_Debugger" modelIndex="5807" path="/usr/share/fritzing/parts/core/atlas-sientific_Debugger.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_ENV-32X" modelIndex="5809" path="/usr/share/fritzing/parts/core/atlas-sientific_ENV-32X.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_FLO-30 Circuit" modelIndex="5811" path="/usr/share/fritzing/parts/core/atlas-sientific_FLO-30 Circuit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_ORP Circuit" modelIndex="5813" path="/usr/share/fritzing/parts/core/atlas-sientific_ORP Circuit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_pH Circuit" modelIndex="5815" path="/usr/share/fritzing/parts/core/atlas-sientific_pH Circuit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_Pre-AssembledFemaleBNC" modelIndex="5817" path="/usr/share/fritzing/parts/core/atlas-sientific_Pre-AssembledFemaleBNC.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_PWR-SNS" modelIndex="5819" path="/usr/share/fritzing/parts/core/atlas-sientific_PWR-SNS.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_RJ-11" modelIndex="5821" path="/usr/share/fritzing/parts/core/atlas-sientific_RJ-11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_Serial Port Connector" modelIndex="5823" path="/usr/share/fritzing/parts/core/atlas-sientific_Serial Port Connector.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="f43b34feed8ba4cccf5782691a06147f" modelIndex="5825" path="/usr/share/fritzing/parts/core/audio-jack-4pin-3.5mm-smd-lumberg-jeita-rc-5325A.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="bareconductive_touchboard" modelIndex="5827" path="/usr/share/fritzing/parts/core/bareconductive_touchboard.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="blueIOT_Rc1-final" modelIndex="5828" path="/usr/share/fritzing/parts/core/blueIOT_Rc1-final.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="BreadboardModuleID" modelIndex="5829" path="/usr/share/fritzing/parts/core/breadboard.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Breadboard-RSR03MB102-ModuleID" modelIndex="5831" path="/usr/share/fritzing/parts/core/breadboard2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="daf5c6f3ee7e6da72522d1ea59fca803_65" modelIndex="5832" path="/usr/share/fritzing/parts/core/CAR_RELE_NVF4-2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="CD4048B_64153d6304720c78495cf70ab817988e_1" modelIndex="5834" path="/usr/share/fritzing/parts/core/CD4048B_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Cherry-MX-Keyswitch" modelIndex="5836" path="/usr/share/fritzing/parts/core/Cherry-MX-Keyswitch.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="chipkit_BasicIOShield" modelIndex="5838" path="/usr/share/fritzing/parts/core/chipkit_BasicIOShield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="chipkit_MotorShield" modelIndex="5840" path="/usr/share/fritzing/parts/core/chipkit_MotorShield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="chipkit_MX4" modelIndex="5842" path="/usr/share/fritzing/parts/core/chipkit_MX4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="chipkit_WF32" modelIndex="5844" path="/usr/share/fritzing/parts/core/chipkit_WF32.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="297c7ab01279c7b7f5c4ca77ec94554c" modelIndex="5845" path="/usr/share/fritzing/parts/core/Dial Potentiometer with switch.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7e3598758afd7c1363215b7f0c124af8" modelIndex="5847" path="/usr/share/fritzing/parts/core/Digital_Panel_Meter__Voltage__DMS_20PC.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="DRV8825_breakout" modelIndex="5849" path="/usr/share/fritzing/parts/core/DRV8825_breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="EasyDriver_v44" modelIndex="5851" path="/usr/share/fritzing/parts/core/EasyDriver_v44.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Electromechanical-BATTERY-AA-KIT" modelIndex="5853" path="/usr/share/fritzing/parts/core/electromechanical-battery-aa-kit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Electromechanical-BATTERY-AA" modelIndex="5855" path="/usr/share/fritzing/parts/core/electromechanical-battery-aa.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Electromechanical-BATTERY-AAA" modelIndex="5857" path="/usr/share/fritzing/parts/core/electromechanical-battery-aaa.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ESP8266_7" modelIndex="5859" path="/usr/share/fritzing/parts/core/ESP8266_7.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="EspruinoPico" modelIndex="5861" path="/usr/share/fritzing/parts/core/EspruinoPico_8fb644a5b6642112445ed6d90bc494d8_6.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Fairchild_MBR745" modelIndex="5863" path="/usr/share/fritzing/parts/core/Fairchild_MBR745.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="femtobuck" modelIndex="5865" path="/usr/share/fritzing/parts/core/femtobuck.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Frode_3fbd71bd2aded84aad94c91d960efcc1_1" modelIndex="5867" path="/usr/share/fritzing/parts/core/Frode_1.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="FT230XQ_df1159ec8af0eb336d7fbe6068d3aed4_2" modelIndex="5869" path="/usr/share/fritzing/parts/core/FT230XQ_2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="fuse_with_handler_cff5" modelIndex="5871" path="/usr/share/fritzing/parts/core/Fuse_with_Handler.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="generic_sip_2_300mil" modelIndex="5872" path="/usr/share/fritzing/parts/core/generic_sip_2_300mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="GPSShield-v15" modelIndex="5874" path="/usr/share/fritzing/parts/core/GPSShield-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="gs1011_breakout-v11" modelIndex="5876" path="/usr/share/fritzing/parts/core/gs1011_breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="13f88e58b86d08d73d112f0fb05e6968" modelIndex="5878" path="/usr/share/fritzing/parts/core/Half_breadboard.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="HalfBreadboardModuleID" modelIndex="5880" path="/usr/share/fritzing/parts/core/halfBreadboard.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="HalfMinusBreadboardModuleID" modelIndex="5882" path="/usr/share/fritzing/parts/core/halfMinusBreadboard.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="HC-05-male_fix" modelIndex="5884" path="/usr/share/fritzing/parts/core/HC-05-male_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-2p-125h" modelIndex="5886" path="/usr/share/fritzing/parts/core/hirose-df13-2p-125h_42.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-2p-125v" modelIndex="5887" path="/usr/share/fritzing/parts/core/hirose-df13-2p-125v_50.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-3p-125h" modelIndex="5888" path="/usr/share/fritzing/parts/core/hirose-df13-3p-125h_34.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-3p-125v" modelIndex="5890" path="/usr/share/fritzing/parts/core/hirose-df13-3p-125v_42.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-4p-125h" modelIndex="5892" path="/usr/share/fritzing/parts/core/hirose-df13-4p-125h_8.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-4p-125v" modelIndex="5894" path="/usr/share/fritzing/parts/core/hirose-df13-4p-125v_8.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-5p-125h" modelIndex="5896" path="/usr/share/fritzing/parts/core/hirose-df13-5p-125h_26.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-5p-125v" modelIndex="5898" path="/usr/share/fritzing/parts/core/hirose-df13-5p-125v_25.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-6p-125h" modelIndex="5900" path="/usr/share/fritzing/parts/core/hirose-df13-6p-125h_18.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-6p-125v" modelIndex="5902" path="/usr/share/fritzing/parts/core/hirose-df13-6p-125v_17.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-7p-125h" modelIndex="5904" path="/usr/share/fritzing/parts/core/hirose-df13-7p-125h_10.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-7p-125v" modelIndex="5906" path="/usr/share/fritzing/parts/core/hirose-df13-7p-125v_9.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-8p-125h" modelIndex="5908" path="/usr/share/fritzing/parts/core/hirose-df13-8p-125h_4.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-8p-125v" modelIndex="5910" path="/usr/share/fritzing/parts/core/hirose-df13-8p-125v_5.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="HLK-PM01_f3fff412ac55f21b5b3168355aacbaa9_1" modelIndex="5912" path="/usr/share/fritzing/parts/core/HLK-PM01.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="huzzah_esp8266" modelIndex="5914" path="/usr/share/fritzing/parts/core/huzzah_esp8266.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo-(simple)" modelIndex="5916" path="/usr/share/fritzing/parts/core/intel-arduino_galileo-simple.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo" modelIndex="5918" path="/usr/share/fritzing/parts/core/intel-arduino_galileo.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo_gen2-(simple)" modelIndex="5920" path="/usr/share/fritzing/parts/core/intel-arduino_galileo_gen2-simple.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo_gen2" modelIndex="5921" path="/usr/share/fritzing/parts/core/intel-arduino_galileo_gen2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel_edison_minibreakout_bottom_fix" modelIndex="5923" path="/usr/share/fritzing/parts/core/intel_edison_minibreakout-bottom_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel_edison_minibreakout_fix" modelIndex="5925" path="/usr/share/fritzing/parts/core/intel_edison_minibreakout_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ITG-3200-v11" modelIndex="5927" path="/usr/share/fritzing/parts/core/ITG-3200-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="red_led_matrix8x8" modelIndex="5929" path="/usr/share/fritzing/parts/core/LBT2088AH.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="linino_dogUSB" modelIndex="5931" path="/usr/share/fritzing/parts/core/linino_dogUSB(01).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="mega_pro-v13" modelIndex="5933" path="/usr/share/fritzing/parts/core/mega_pro-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Mega_Shield-v13" modelIndex="5935" path="/usr/share/fritzing/parts/core/Mega_Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="microsdmodule" modelIndex="5937" path="/usr/share/fritzing/parts/core/microsdmodule.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MIDI_Shield-v13" modelIndex="5939" path="/usr/share/fritzing/parts/core/MIDI_Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MiniBreadboardModuleID" modelIndex="5941" path="/usr/share/fritzing/parts/core/miniBreadboard.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0219_smd-2p-h" modelIndex="5943" path="/usr/share/fritzing/parts/core/Molex-Picoblade-53261-0219_smd-2p-h_48.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0319_smd-3p-h" modelIndex="5944" path="/usr/share/fritzing/parts/core/Molex-Picoblade-53261-0319_smd-3p-h_40.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0419_smd-4p-h" modelIndex="5946" path="/usr/share/fritzing/parts/core/Molex-Picoblade-53261-0419_smd-4p-h_32.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0519_smd-5p-h" modelIndex="5948" path="/usr/share/fritzing/parts/core/Molex-Picoblade-53261-0519_smd-5p-h_24.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0619_smd-6p-h" modelIndex="5950" path="/usr/share/fritzing/parts/core/Molex-Picoblade-53261-0619_smd-6p-h_16.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0719_smd-7p-h" modelIndex="5952" path="/usr/share/fritzing/parts/core/Molex-Picoblade-53261-0719_smd-7p-h_8.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0819_smd-8p-h" modelIndex="5954" path="/usr/share/fritzing/parts/core/Molex-Picoblade-53261-0819_smd-8p-h_4.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0271_smd-2p-v" modelIndex="5956" path="/usr/share/fritzing/parts/core/Molex-Picoblade-53398-0271_smd-2p-v_18.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0371_smd-3p-v" modelIndex="5957" path="/usr/share/fritzing/parts/core/Molex-Picoblade-53398-0371_smd-3p-v_10.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0471_smd-4p-v" modelIndex="5959" path="/usr/share/fritzing/parts/core/Molex-Picoblade-53398-0471_smd-4p-v_16.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0571_smd-5p-v" modelIndex="5961" path="/usr/share/fritzing/parts/core/Molex-Picoblade-53398-0571_smd-5p-v_8.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0671_smd-6p-v" modelIndex="5963" path="/usr/share/fritzing/parts/core/Molex-Picoblade-53398-0671_smd-6p-v_8.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0771_smd-7p-v" modelIndex="5965" path="/usr/share/fritzing/parts/core/Molex-Picoblade-53398-0771_smd-7p-v_8.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0871_smd-8p-v" modelIndex="5967" path="/usr/share/fritzing/parts/core/Molex-Picoblade-53398-0871_smd-8p-v_1.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MP3 Shield-v13" modelIndex="5969" path="/usr/share/fritzing/parts/core/MP3 Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="d63bf67236bb974ced6c30c1d9f152a9_18" modelIndex="5971" path="/usr/share/fritzing/parts/core/MPX2010 pressure sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MPX4250AP_60bfc397c54bae166e67461339be2ca8_4" modelIndex="5973" path="/usr/share/fritzing/parts/core/MPX4250AP pressure sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="NRF24L01+_breakout" modelIndex="5975" path="/usr/share/fritzing/parts/core/NRF24L01+_breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="NRF24L01_fix" modelIndex="5977" path="/usr/share/fritzing/parts/core/NRF24L01_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="144096d13637627703324c683e3211ec_40" modelIndex="5979" path="/usr/share/fritzing/parts/core/OMRON_G5LE.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PHOTON_fix" modelIndex="5981" path="/usr/share/fritzing/parts/core/PHOTON_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="polarizedheader4pin_0.156in" modelIndex="5983" path="/usr/share/fritzing/parts/core/polarizedheader4pin_0.156in.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pololu0002_a988" modelIndex="5985" path="/usr/share/fritzing/parts/core/pololu0002_a988.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="3234DFDC00PotentiometerModuleID" modelIndex="5987" path="/usr/share/fritzing/parts/core/pot_big.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="3234DBDC00PotentiometerModuleID" modelIndex="5989" path="/usr/share/fritzing/parts/core/pot_trimmer_12mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="4244TPM6MMPotentiometerModuleID" modelIndex="5990" path="/usr/share/fritzing/parts/core/pot_trimmer_6mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PowerCell-v13" modelIndex="5992" path="/usr/share/fritzing/parts/core/PowerCell Lipo Charger Booster v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="proto_shield_v6MEGA" modelIndex="5994" path="/usr/share/fritzing/parts/core/proto_shield_v6MEGA.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ProtoShield-Mini-v12" modelIndex="5995" path="/usr/share/fritzing/parts/core/ProtoShield-Mini-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ProtoShield-v25" modelIndex="5997" path="/usr/share/fritzing/parts/core/ProtoShield-v25.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="raspberry_pi_3_rev-1.2" modelIndex="5999" path="/usr/share/fritzing/parts/core/Raspberry Pi 3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="raspberry_pi_zero_rev-1.1" modelIndex="6000" path="/usr/share/fritzing/parts/core/Raspberry Pi Zero.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="P1000K_laydown" modelIndex="6001" path="/usr/share/fritzing/parts/core/Rectifier Diode 10A.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="P1000K_standup" modelIndex="6003" path="/usr/share/fritzing/parts/core/Rectifier Diode 10A_standup_on_PCB.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RFduinoSMD_fix" modelIndex="6005" path="/usr/share/fritzing/parts/core/RFduinoSMD_fix.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RGB_matrix_v25" modelIndex="6007" path="/usr/share/fritzing/parts/core/RGB_matrix_v25.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Rotary_Switch_12x1_6ea97bf52c0dd3f7e91820cbb831579b_2" modelIndex="6009" path="/usr/share/fritzing/parts/core/Rotary_Switch_12x1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Rotoshield-1.0a" modelIndex="6011" path="/usr/share/fritzing/parts/core/Rotoshield-1.0a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="screw_terminal_2_100mil" modelIndex="6013" path="/usr/share/fritzing/parts/core/screw_terminal_2_100mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="screw_terminal_2_200mil" modelIndex="6015" path="/usr/share/fritzing/parts/core/screw_terminal_2_200mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="screw_terminal_2_3.5mm" modelIndex="6017" path="/usr/share/fritzing/parts/core/screw_terminal_2_3.5mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="screw_terminal_2_300mil" modelIndex="6018" path="/usr/share/fritzing/parts/core/screw_terminal_2_300mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="screwshield-v15" modelIndex="6020" path="/usr/share/fritzing/parts/core/screwshield-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arch_pro_v1" modelIndex="6022" path="/usr/share/fritzing/parts/core/seeed_arch_pro_v1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arch_v1.1" modelIndex="6024" path="/usr/share/fritzing/parts/core/seeed_arch_v1.1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_3axis_digital_accelerometer_16g" modelIndex="6026" path="/usr/share/fritzing/parts/core/seeed_grove_3axis_digital_accelerometer_16g.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_4digit_display" modelIndex="6028" path="/usr/share/fritzing/parts/core/seeed_grove_4digit_display.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_button" modelIndex="6030" path="/usr/share/fritzing/parts/core/seeed_grove_button.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_buzz" modelIndex="6032" path="/usr/share/fritzing/parts/core/seeed_grove_buzz.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_infrared_emitter" modelIndex="6034" path="/usr/share/fritzing/parts/core/seeed_grove_infrared_emitter.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_infrared_receiver" modelIndex="6036" path="/usr/share/fritzing/parts/core/seeed_grove_infrared_receiver.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_light_sensor" modelIndex="6038" path="/usr/share/fritzing/parts/core/seeed_grove_light_sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_oled_128x96" modelIndex="6040" path="/usr/share/fritzing/parts/core/seeed_grove_oled_128x96.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_temperature_sensor" modelIndex="6042" path="/usr/share/fritzing/parts/core/seeed_grove_temperature_sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="seeeduino_v3" modelIndex="6044" path="/usr/share/fritzing/parts/core/seeed_seeeduino_v3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SIM800L_ffc8b43381ee538161803713ee68337c_5" modelIndex="6046" path="/usr/share/fritzing/parts/core/SIM800L_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SM130_fix" modelIndex="6048" path="/usr/share/fritzing/parts/core/SM130_fix_c427b6f6464a187fb8ed11ae2f2868fc_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SN74LVC2G14DBVR_fdd88c7268b73ebcc4ab7e9b12fb8353_2" modelIndex="6050" path="/usr/share/fritzing/parts/core/SN74LVC2G14DBVR_2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SPARKCORE_v1_fix" modelIndex="6052" path="/usr/share/fritzing/parts/core/SPARKCORE_v1_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-AnalogIC-MSGEQ7-SOIC" modelIndex="6053" path="/usr/share/fritzing/parts/core/sparkfun-analogic-msgeq7-soic.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AUDIO-JACK-2.5MM" modelIndex="6055" path="/usr/share/fritzing/parts/core/sparkfun-connectors-audio-jack-2.5mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AUDIO-JACK-PTH" modelIndex="6057" path="/usr/share/fritzing/parts/core/sparkfun-connectors-audio-jack-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AUDIO-JACK-SMD" modelIndex="6059" path="/usr/share/fritzing/parts/core/sparkfun-connectors-audio-jack-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AUDIO-JACK-SMD2" modelIndex="6061" path="/usr/share/fritzing/parts/core/sparkfun-connectors-audio-jack-smd2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AUDIO-JACK-SPECIAL_POGO_PINS" modelIndex="6063" path="/usr/share/fritzing/parts/core/sparkfun-connectors-audio-jack-special_pogo_pins.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AUDIO-JACK2-PTH" modelIndex="6065" path="/usr/share/fritzing/parts/core/sparkfun-connectors-audio-jack2-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M02--JST-2-PTH-NO_SILK" modelIndex="6067" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m02--jst-2-pth-no_silk.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M02--JST-2MM-SMT" modelIndex="6069" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m02--jst-2mm-smt.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M02-3.5MM_LOCK" modelIndex="6071" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m02-3.5mm_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M02-4UCON-15767" modelIndex="6073" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m02-4ucon-15767.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M02-JST-PTH-2-KIT" modelIndex="6075" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m02-jst-pth-2-kit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M02-JST-PTH-2" modelIndex="6077" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m02-jst-pth-2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M02-POLAR_LOCK" modelIndex="6079" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m02-polar_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M02-ROCKER" modelIndex="6081" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m02-rocker.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M02-SPRING-2.54-RA" modelIndex="6083" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m02-spring-2.54-ra.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M03-" modelIndex="6085" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m03-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M03-JST-PTH" modelIndex="6087" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m03-jst-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M03-POLAR_LOCK" modelIndex="6089" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m03-polar_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M03-SCREW_LOCK" modelIndex="6091" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m03-screw_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M03-SMD" modelIndex="6093" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m03-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M04-JST-PTH" modelIndex="6095" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m04-jst-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M04-POLAR_LOCK" modelIndex="6097" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m04-polar_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M04-SCREW_LOCK" modelIndex="6099" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m04-screw_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M04-SMD" modelIndex="6101" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m04-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M04-SMD2" modelIndex="6103" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m04-smd2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M05-SMD" modelIndex="6105" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m05-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M05-SMD2" modelIndex="6107" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m05-smd2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-1X06-SMD_EDGE_FEMALE" modelIndex="6109" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m06-1x06-smd_edge_female.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-EM406" modelIndex="6111" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m06-em406.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-POLAR_LOCK" modelIndex="6113" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m06-polar_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-RA" modelIndex="6115" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m06-ra.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-RA_LOCK" modelIndex="6117" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m06-ra_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-SMD-FEMALE-V2" modelIndex="6119" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m06-smd-female-v2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-SMD-STRAIGHT-ALT" modelIndex="6121" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m06-smd-straight-alt.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-SMD-STRAIGHT-COMBO" modelIndex="6123" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m06-smd-straight-combo.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-SMD-STRAIGHT" modelIndex="6125" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m06-smd-straight.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-SMD" modelIndex="6127" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m06-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-SMDF" modelIndex="6129" path="/usr/share/fritzing/parts/core/sparkfun-connectors-m06-smdf.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DigitalIC-MAX7219-DIP" modelIndex="6131" path="/usr/share/fritzing/parts/core/sparkfun-digitalic-max7219-dip.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-1100" modelIndex="6133" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-1100.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-12MM" modelIndex="6135" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-12mm.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-12PTH" modelIndex="6137" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-12pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-20MM_4LEGS" modelIndex="6139" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-20mm_4legs.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-20PTH" modelIndex="6141" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-20pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-20PTH2" modelIndex="6143" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-20pth2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-20SMD" modelIndex="6145" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-20smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-245MM" modelIndex="6147" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-245mm.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-245PTH" modelIndex="6149" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-245pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-AA-PANEL" modelIndex="6151" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-aa-panel.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-AA" modelIndex="6153" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-aa.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-FOB" modelIndex="6155" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-fob.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTONPAD-2X2--SPECIAL" modelIndex="6157" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-buttonpad-2x2--special.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTONPAD-2X2-" modelIndex="6159" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-buttonpad-2x2-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTONPAD-2X2SINGLE-" modelIndex="6161" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-buttonpad-2x2single-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTONPAD-2X2SINGLE-KIT" modelIndex="6163" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-buttonpad-2x2single-kit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTONPAD-4X4-" modelIndex="6165" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-buttonpad-4x4-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTONPAD-4X4-SPECIAL" modelIndex="6167" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-buttonpad-4x4-special.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUZZER-NS" modelIndex="6169" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-buzzer-ns.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUZZER-PTH-NS-KIT" modelIndex="6171" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-buzzer-pth-ns-kit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUZZER-PTH" modelIndex="6173" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-buzzer-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUZZER-SMD" modelIndex="6175" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-buzzer-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUZZER-SMD2-KIT" modelIndex="6177" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-buzzer-smd2-kit.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUZZER-SMD2" modelIndex="6179" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-buzzer-smd2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUZZER-SMD3" modelIndex="6181" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-buzzer-smd3.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-LED-LED--FKIT-1206" modelIndex="6183" path="/usr/share/fritzing/parts/core/sparkfun-led-led--fkit-1206.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-LED-LED-0603" modelIndex="6185" path="/usr/share/fritzing/parts/core/sparkfun-led-led-0603.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-LED-LED-10MMfix" modelIndex="6187" path="/usr/share/fritzing/parts/core/sparkfun-led-led-10mm_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-LED-LED-1206" modelIndex="6189" path="/usr/share/fritzing/parts/core/sparkfun-led-led-1206.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_ADJ-SMD" modelIndex="6191" path="/usr/share/fritzing/parts/core/sparkfun-passives-cap_adj-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-1206-KIT" modelIndex="6193" path="/usr/share/fritzing/parts/core/sparkfun-passives-cap_pol-1206-kit.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-1206" modelIndex="6195" path="/usr/share/fritzing/parts/core/sparkfun-passives-cap_pol-1206.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-3528-KIT" modelIndex="6197" path="/usr/share/fritzing/parts/core/sparkfun-passives-cap_pol-3528-kit.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-3528" modelIndex="6199" path="/usr/share/fritzing/parts/core/sparkfun-passives-cap_pol-3528.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-6032" modelIndex="6201" path="/usr/share/fritzing/parts/core/sparkfun-passives-cap_pol-6032.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-7343" modelIndex="6203" path="/usr/share/fritzing/parts/core/sparkfun-passives-cap_pol-7343.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-C" modelIndex="6205" path="/usr/share/fritzing/parts/core/sparkfun-passives-cap_pol-c.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-D" modelIndex="6207" path="/usr/share/fritzing/parts/core/sparkfun-passives-cap_pol-d.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-E" modelIndex="6209" path="/usr/share/fritzing/parts/core/sparkfun-passives-cap_pol-e.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-EN_J2" modelIndex="6211" path="/usr/share/fritzing/parts/core/sparkfun-passives-cap_pol-en_j2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-F80" modelIndex="6213" path="/usr/share/fritzing/parts/core/sparkfun-passives-cap_pol-f80.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-G" modelIndex="6215" path="/usr/share/fritzing/parts/core/sparkfun-passives-cap_pol-g.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-H13" modelIndex="6217" path="/usr/share/fritzing/parts/core/sparkfun-passives-cap_pol-h13.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-PTH1" modelIndex="6219" path="/usr/share/fritzing/parts/core/sparkfun-passives-cap_pol-pth1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-PTH2" modelIndex="6221" path="/usr/share/fritzing/parts/core/sparkfun-passives-cap_pol-pth2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-PTH3" modelIndex="6223" path="/usr/share/fritzing/parts/core/sparkfun-passives-cap_pol-pth3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-PTH4" modelIndex="6225" path="/usr/share/fritzing/parts/core/sparkfun-passives-cap_pol-pth4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-SMD" modelIndex="6227" path="/usr/share/fritzing/parts/core/sparkfun-passives-cap_pol-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-FUSE-X20MM" modelIndex="6229" path="/usr/share/fritzing/parts/core/sparkfun-passives-fuse-x20mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-VENUS638FLPX-L-" modelIndex="6231" path="/usr/share/fritzing/parts/core/sparkfun-rf-venus638flpx-l-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_MIDI_Shield" modelIndex="6233" path="/usr/share/fritzing/parts/core/SparkFun_MIDI_Shield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7d0bc366bcac9395c747f3a92e2ff843leg" modelIndex="6235" path="/usr/share/fritzing/parts/core/stepper_motor_bipolar.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="stereo-jack-3_5mm" modelIndex="6236" path="/usr/share/fritzing/parts/core/stereo-jack-3_5mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="90cd818327a71ac756fa8973e0157ba42" modelIndex="6237" path="/usr/share/fritzing/parts/core/stereo_jack__PG203J__3.5mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Teensy3.0+pads" modelIndex="6239" path="/usr/share/fritzing/parts/core/Teensy 3.0+pads.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Teensy3.0" modelIndex="6241" path="/usr/share/fritzing/parts/core/Teensy 3.0.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="teensy_3.1" modelIndex="6243" path="/usr/share/fritzing/parts/core/teensy_3.1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ab15a34dfcf83e23a26e83fe8a5a4dac_2" modelIndex="6244" path="/usr/share/fritzing/parts/core/Textile Potentiometer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TinyBreadboardModuleID" modelIndex="6245" path="/usr/share/fritzing/parts/core/tinyBreadboard.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="2d505f861194750183f944ba86c13b44_28" modelIndex="6247" path="/usr/share/fritzing/parts/core/tsop312.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="FINALWEIO_ff7656622014dbb325626f2fefde52eb_1" modelIndex="6249" path="/usr/share/fritzing/parts/core/WeIO.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="XBEE_realsize" modelIndex="6251" path="/usr/share/fritzing/parts/core/xbee_realsize.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="raspberry_pi_3_rev-1.2_93cd6203faf853cc01c7e5d7831d3687_3" modelIndex="6253" path="/usr/share/fritzing/parts/obsolete/Raspberry Pi 3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="30.20PerfboardModuleID" modelIndex="6255" path=":/resources/parts/core/30.20PerfboardModuleID.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="30.20Stripboard2ModuleID" modelIndex="6256" path=":/resources/parts/core/30.20Stripboard2ModuleID.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="30.20StripboardModuleID" modelIndex="6257" path=":/resources/parts/core/30.20StripboardModuleID.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="HoleModuleID" modelIndex="6259" path=":/resources/parts/core/hole.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ViaModuleID" modelIndex="6260" path=":/resources/parts/core/via.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="mystery_part_sip_3_100mil" modelIndex="6261" path="/home/lobo/.config/Fritzing/partfactory/de617fbe35f57d7f04306758e5a8a12c/core/mystery_part_sip_3_100mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="generic_ic_dip_8_300mil" modelIndex="6262" path="/home/lobo/.config/Fritzing/partfactory/de617fbe35f57d7f04306758e5a8a12c/core/generic_ic_dip_8_300mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="generic_female_pin_header_2_100mil" modelIndex="6263" path="/home/lobo/.config/Fritzing/partfactory/de617fbe35f57d7f04306758e5a8a12c/core/generic_female_pin_header_2_100mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="generic_shrouded_pin_header_10_100mil" modelIndex="6264" path="/home/lobo/.config/Fritzing/partfactory/de617fbe35f57d7f04306758e5a8a12c/core/generic_shrouded_pin_header_10_100mil.fzp">
             <views/>
         </instance>
     </instances>
