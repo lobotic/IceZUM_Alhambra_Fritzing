@@ -9,6 +9,6 @@ Para instalar el componete:
 
 Aportación de  Jesús Gil <a href="https://twitter.com/tecnologiapmerc">@tecnologiapmerc</a></a>
 
-*Me ha funcionado perfectamente descargando el github "Download zip" a local, descomprimiento e importanto el archivo. Quizá convendría aclararlo así en las instrucciones del Readme.md, ya que si se descarga únicamente el fichero iceZUM Alhambra.fzpz no funciona.
+*Me ha funcionado perfectamente descargando el github "Download zip" a local, descomprimiento e importanto el archivo. Quizá convendría aclararlo así en las instrucciones del Readme.md, ya que si se descarga únicamente el fichero iceZUM Alhambra.fzpz no funciona.*
 
 ![alt text](https://github.com/lobotic/IceZUM_Alhambra_Fritzing/blob/master/Recursos/01.jpg)
