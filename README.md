@@ -1,5 +1,6 @@
 # IceZUM_Alhambra_Fritzing
-Componente IceZUM Alhambra para Fritzing
+<b>Componente IceZUM Alhambra para Fritzing</b>
+  
 Para instalar el componete:
 * Descargar el archivo <a href="https://github.com/lobotic/IceZUM_Alhambra_Fritzing/blob/master/iceZUM%20Alhambra.fzpz">iceZUM Alhambra.fzpz</a></a>
 * En el panel de componentes de Fritzing, hacer clic en el menú
